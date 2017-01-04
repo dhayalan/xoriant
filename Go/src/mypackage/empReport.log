@@ -1,0 +1,4 @@
+2017/01/03 14:46:27 empReport.go:58: DB PortNo:  3306
+2017/01/03 14:46:31 empReport.go:62: Database Name:  golangdb
+2017/01/03 14:46:35 empReport.go:75: Enter Employee Skill:  java
+2017/01/03 14:46:36 empReport.go:111: Total Employee Records Found:  7182
